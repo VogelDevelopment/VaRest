@@ -1,14 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/ufna/VaRest)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ufna/VaRest?include_prereleases)
 
-> [!IMPORTANT]
-> Hi there. Thank you for your interest and support over the years! I want to inform you that I will be archiving the VaRest project. While this means I will no longer be actively maintaining it, I encourage anyone interested to fork the repository and continue development if you wish.
->
-> Feel free to use the existing code as a foundation for your own projects. I appreciate the contributions and enthusiasm of this community, and I hope VaRest continues to be a valuable resource for you.
-
 # VaRest
 
-VaRest is the plugin for [Unreal Engine 4](https://www.unrealengine.com/) that makes REST server communications easier to use.
+VaRest is the plugin for [Unreal Engine 5](https://www.unrealengine.com/) that makes REST server communications easier to use.
 
 Key features:
 
@@ -20,7 +15,7 @@ Key features:
 
 Check the [Wiki](http://bit.ly/VaRest-Docs) for plugin usage examples and installation notes.
 
-Current version: **1.1 R 33** (UE 5.2)
+Current version: **1.2 R 1** (UE 5.5)
 
 ![SCREENSHOT](SCREENSHOT.jpg)
 
